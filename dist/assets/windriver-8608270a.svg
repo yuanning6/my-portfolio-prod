@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg inkscape:version="1.0.2 (e86c870879, 2021-01-15)" sodipodi:docname="Wind_River_logo.svg" version="1.1" viewBox="0 0 119.98 19.72" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Asset 28</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <sodipodi:namedview bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" inkscape:current-layer="svg929" inkscape:cx="65.968581" inkscape:cy="22.322033" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="1014" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="0" inkscape:window-y="36" inkscape:zoom="5.3008835" objecttolerance="10" pagecolor="#ffffff" showgrid="false"/>
+ <title>Asset 28</title>
+ <g transform="matrix(.98712 0 0 .93486 1.1373 .71703)">
+  <g fill="#1a1a1a">
+   <path d="m11.44 0h1.34l5.81 19.72h-1.35zm6.84 16.36 4.65-16.28h1.29l-5.55 19.35zm-11.2 3.36h-1.42l-5.66-19.72h1.26z"/>
+   <path d="m48.41 0h6.78c5.34 0 8.81 4 8.81 10.23a9.66 9.66 0 0 1-2.65 7.17c-1.67 1.61-3.75 2.32-7 2.32h-5.94zm1.34 1.18v17.31h4.76c2.79 0 4.51-0.6 5.91-2a9 9 0 0 0 2.19-6.37 9.73 9.73 0 0 0-2.33-6.86 7.51 7.51 0 0 0-5.66-2z"/>
+   <polygon points="93.3 17.94 94.01 19.72 92.64 19.72 85.81 0 87.06 0"/>
+  </g>
+  <polygon points="93.84 16.36 99.48 0 100.77 0 94.11 19.43" fill="#00ada4"/>
+  <g fill="#1a1a1a">
+   <path d="m113.19 9.1c2.92-0.11 4.82-1.67 4.82-4s-2-4-4.57-4h-6.67v18.6h-1.34v-19.7h8c3.5 0 5.91 2.08 5.91 5.12a4.7 4.7 0 0 1-1.75 3.69 5.7 5.7 0 0 1-2.51 1.19l4.9 9.68h-1.34l-4.84-9.46z"/>
+   <path d="m76 9.1c2.93-0.11 4.82-1.67 4.82-4s-2-4-4.56-4h-6.72v18.6h-1.34v-19.7h8c3.5 0 5.9 2.08 5.9 5.12a4.7 4.7 0 0 1-1.75 3.69 5.65 5.65 0 0 1-2.49 1.19l4.89 9.68h-1.34l-4.84-9.46z"/>
+   <polygon points="6.78 16.36 11.29 0.56 11.71 3.56 7.17 19.43"/>
+   <path d="m42.14 16.36v-16.36h1.34v19.43zm1.34 3.36h-1.67l-11.71-18.24v18.24h-1.31v-19.72h1.86l11.49 17.94z"/>
+  </g>
+ </g>
+</svg>
